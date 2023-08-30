@@ -1,1 +1,1 @@
-This is my firt git in the zero day project
+This is my first git in the zero day project
